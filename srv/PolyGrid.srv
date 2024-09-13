@@ -1,0 +1,5 @@
+float32 step
+ppg_planner_interfaces/Poly zone
+ppg_planner_interfaces/Poly[] exclusion_zones
+---
+geometry_msgs/Point32[] point_grid
